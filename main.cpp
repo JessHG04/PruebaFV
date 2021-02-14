@@ -17,6 +17,8 @@ int main() {
   }
 
   std::cout << "Holaaaaa " << std::endl;
+  std::cout << "Holaaaaa " << std::endl;
+  std::cout << "Holaaaaa " << std::endl;
   
   //Y creo el spritesheet a partir de la imagen anterior
   sf::Sprite sprite(tex);
