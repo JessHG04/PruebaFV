@@ -22,10 +22,9 @@ int main() {
 
   int a = 10;
   
-  if(a == 5){
+  if(a == 10){
     std::cout << "jej" << std::endl;
-  }
-  
+  }  
   //Y creo el spritesheet a partir de la imagen anterior
   sf::Sprite sprite(tex);
 
